@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid App</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_provinsi">Data Provinsi</string>
+    <string name="title_info_app">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
